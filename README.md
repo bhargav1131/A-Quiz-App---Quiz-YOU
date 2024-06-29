@@ -14,17 +14,18 @@
 
 ## A few Screenshots
 
-1. 
-![alt text](Screenshot_20240626-204840_quiz_app.png)
+1.
+![alt text](assets/Screenshot_20240626-204845_quiz_app.png) 
+
 
 2. 
 
-![alt text](Screenshot_20240626-204845_quiz_app.png)
+![alt text](assets/Screenshot_20240626-204845_quiz_app.png)
 
 3.
-![alt text](Screenshot_20240626-204848_quiz_app-1.png)
+![alt text](assets/Screenshot_20240626-204848_quiz_app-1.png)
 
-4.![alt text](Screenshot_20240629-121402_quiz_app.png)
+4.![alt text](assets/Screenshot_20240629-121402_quiz_app.png)
 
 
 

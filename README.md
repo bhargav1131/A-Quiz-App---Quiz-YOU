@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-=======
 ## My first Flutter App
 ### Quiz YOU is a simple Quiz Flutter Application which is built as my first project while learning Flutter Development
 ---
 
 
->>>>>>> d2a178d (resolving issues)
 > Author: Bhargav Pratim Sharma
 
 
